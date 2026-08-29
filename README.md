@@ -1,5 +1,5 @@
 <!-- ================= ABOUT + ID CARD ================= -->
-<img src="./assets/id-card.png" align="right" width="385" alt="Justin — GitHub Developer ID" hspace="0" vspace="0"/>
+<img src="./assets/optimized-id-card-6fps.apng" align="right" width="385" alt="Justin — GitHub Developer ID" hspace="0" vspace="0"/>
 
 <a href="https://github.com/justin24er"><img src="https://readme-typing-svg.demolab.com?font=Michroma&size=22&duration=3000&pause=1000&color=00E3B2&width=435&lines=Hey!++I'm+Justin.+Glad+you're+here;where+code+meets+intelligence.;take+the+tour!." alt="Typing SVG" /></a>
 
@@ -80,3 +80,5 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16A34A&height=3&section=header" width="100%"/>
+
+<!-- proceeding tommorrow with development process, on reducing the frames rendering of the ID-card animation -->
