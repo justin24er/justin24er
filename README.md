@@ -57,7 +57,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=justin24er&theme=gotham&bg_color=00000000&hide_border=true&layout=donut&langs_count=5" width="320" alt="github-top-langs">
 </a>
 <a href="https://github.com/justin24er">
-  <img src="https://github-stats-extended.vercel.app/api?username=justin24er&theme=gotham&show_icons=true&icon_color=00FF8A&bg_color=00000000&hide_border=true" width="450" align="right" alt="github-stats">
+  <img src="https://github-stats-extended-frontend-eight-umber.vercel.app/api?username=justin24er&theme=gotham&show_icons=true&icon_color=00FF8A&bg_color=00000000&hide_border=true" width="450" align="right" alt="github-stats">
 </a>
 </div>
 
