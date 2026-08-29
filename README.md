@@ -74,11 +74,9 @@
 <div align="left">
 <a href="https://github.com/justin24er">
   <img src="https://img.shields.io/badge/Leetcode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22C55E&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22C55E&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/10+-vercel_projects-0D1117?style=social&labelColor=22C55E" />
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22C55E&labelColor=0D1117" />
 </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16A34A&height=3&section=header" width="100%"/>
-
-<!-- proceeding tommorrow with development process, on reducing the frames rendering of the ID-card animation -->
