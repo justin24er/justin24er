@@ -60,23 +60,22 @@
   <img src="https://github-stats-extended.vercel.app/api?username=justin24er&theme=gotham&show_icons=true&icon_color=00FF8A&bg_color=00000000&hide_border=true" width="450" align="right" alt="github-stats">
 </a>
 </div>
-<a href="https://github.com/justin24er">
-  <img src="https://streak-stats.demolab.com?user=justin24er&theme=gotham&background=00000000&hide_border=true"  alt="github-streak-stats" hspace="0" vspace="0">
-</a>
-
-<br>
 
 <!-- ================= STREAK ANIMATION + STREAK STATS + LINKS ================= -->
-<img src="./assets/To readme Github (1).svg" align="left" width="350" alt="github-animation" hspace="15" vspace="10"/><br>
-
 <div align="center">
+<a href="https://github.com/justin24er">
+  <img src="https://streak-stats.demolab.com?user=justin24er&theme=gotham&background=00000000&hide_border=true"  alt="github-streak-stats" width="450" align="left" hspace="0" vspace="0">
+</a>
+<img src="./assets/To readme Github (1).svg" width="350" alt="github-animation" hspace="0" vspace="10" align="right"/><br>
+</div>
+<br>
+
+<div align="left">
 <a href="https://github.com/justin24er">
   <img src="https://img.shields.io/badge/Leetcode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22C55E&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22C55E&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22C55E&labelColor=0D1117" />
 </a>
 </div>
-
-<br clear="both"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16A34A&height=3&section=header" width="100%"/>
