@@ -4,12 +4,11 @@
 <tr>
 <td valign="top">
 <a href="https://github.com/justin24er"><img src="https://readme-typing-svg.demolab.com?font=Michroma&size=22&duration=3000&pause=1000&color=00E3B2&width=435&lines=Hey!++I'm+Justin.+Glad+you're+here;where+code+meets+intelligence.;take+the+tour!." alt="Typing SVG" /></a>
-<h3> √&nbsp;&nbsp;Full-Stack Engineer building products end-to-end, frontend, backend, infra </h3>
-<h3> √&nbsp;&nbsp;Interest in AI/ML, bringing intelligent systems into real products,not just notebooks </h3>
-<h3> √&nbsp;&nbsp;Comfortable across the stack: TypeScript, React, Next.js, Node.js, Python </h3>
-<h3> √&nbsp;&nbsp;Precision Engineering End to End, still early, still shipping </h3>
-<h3> √&nbsp;&nbsp;Focused on clean architecture, readable code, and systems that scale </h3>
-<h3> √&nbsp;&nbsp;Open to collaborating on interesting full-stack or AI-driven projects </h3>
+<h4> √&nbsp;&nbsp;Full-Stack Engineer building products end-to-end, frontend, backend, infra </h4>
+<h4> √&nbsp;&nbsp;Interest in AI/ML, bringing intelligent systems into real products,not just notebooks </h4>
+<h4> √&nbsp;&nbsp;Comfortable across the stack: TypeScript, React, Next.js, Node.js, Python </h4>
+<h4> √&nbsp;&nbsp;Focused on clean architecture, readable code, and systems that scale </h4>
+<h4> √&nbsp;&nbsp;Open to collaborating on interesting full-stack or AI-driven projects </h4>
 <br>
 <a href="https://github.com/justin24er">
   <img src="https://img.shields.io/badge/system_design-35685d?style=for-the-badge" alt="badges">
@@ -19,7 +18,7 @@
 </a>
 </td>
 
-<td>
+<td valign="top">
 <a href="https://github.com/justin24er">
 <img src="./assets/id-card.png" alt="Justin — GitHub Developer ID"/>
 </a>
@@ -30,12 +29,21 @@
 <table width="100%">
 <tr>
 <!-- ================= GITHUB ANALYTICS ================= -->
-  <td valign="top" halign="left">
+  <td valign="top">
     <a href="https://gihtub.com/justin24er">
-      <img width="700px" src="https://github-readme-activity-graph-phi-nine.vercel.app/graph?username=justin24er&theme=gotham&&hide_border=true&from=2026-06-02&to=2026-06-30&bg_color=00000000&area=true&height=600&point=00000000&custom_title=CONTRIBUTION%20GRAPH">
-    </a>
+      <img width="100%" src="https://github-readme-activity-graph-phi-nine.vercel.app/graph?username=justin24er&theme=gotham&&hide_border=true&from=2026-06-02&to=2026-06-30&bg_color=00000000&area=true&height=400&point=00000000&custom_title=CONTRIBUTION%20GRAPH">
+    </a
   </td>
-  <td valign="center" width="550px" align="right">
+  </tr>
+</table>
+<table width=100%>
+  <tr>
+    <td valign="top" align="center">
+      <a href="https://github.com/justin24er">
+        <img src="./assets/PC Coding and Dislay app Mobile.svg" width="500px" alt="github-animation">
+      </a>
+    </td>
+  <td valign="center" width="550px" align="left">
     <strong>Languages & Runtime</strong>
     <img src="https://skillicons.dev/icons?i=space,ts,py,nodejs&theme=light"><br>
     <strong>Frontend</strong>
@@ -52,17 +60,12 @@
   <!-----============ GITHUB CONTRIBUTION =============--> 
   <table width="100%">
   <tr>
-    <td valign="center">
+    <td valign="top" align="center">
       <a href="https://github.com/justin24er">
         <img src="https://github-stats-extended.vercel.app/api?username=justin24er&theme=gotham&show_icons=true&icon_color=00FF8A&bg_color=00000000&hide_border=true" alt="github-stats">
       </a>
     </td>
-    <td valign="top" align="center">
-      <a href="https://github.com/justin24er">
-        <img src="./assets/PC Coding and Dislay app Mobile.svg" width="500px" alt="github-animation">
-      </a>
-    </td>
-    <td>
+    <td valign="top" align="right" colspan="2">
       <a href="https://githubcom/justin24er">
         <img src="https://github-stats-extended.vercel.app/api/top-langs?username=justin24er&theme=gotham&bg_color=00000000&hide_border=true&layout=donut&langs_count=5" alt="github-top-langs">
       </a>
