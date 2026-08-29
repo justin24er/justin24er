@@ -15,8 +15,9 @@
   <img src="https://img.shields.io/badge/system_design-35685d?style=for-the-badge" alt="badges">
   <img src="https://img.shields.io/badge/ai_influencer-17b895?style=for-the-badge&logoColor=0d6653&logo=python" alt="badges">
   <img src="https://img.shields.io/badge/javascript-0E1921?style=for-the-badge&logoColor=00EEBA&logo=javascript" alt="badges">
-  <img src="https://img.shields.io/badge/contact_me-fff?style=social&logo=whatsapp">
 </a>
+<a href="https://wa.me/255750739864?text=Hi!">
+  <img src="https://img.shields.io/badge/contact_me-fff?style=social&logo=whatsapp">
 
 <br clear="right"/>
 
