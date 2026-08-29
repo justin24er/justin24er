@@ -1,13 +1,13 @@
 <!-- ================= ABOUT + ID CARD ================= -->
-<img src="./assets/id-card.png" align="right" width="620" alt="Justin — GitHub Developer ID" hspace="20" vspace="0"/>
+<img src="./assets/id-card.png" align="right" width="385" alt="Justin — GitHub Developer ID" hspace="0" vspace="0"/>
 
-<a href="https://github.com/justin24er"><img src="https://readme-typing-svg.demolab.com?font=Michroma&size=24&duration=3000&pause=1000&color=00E3B2&width=435&lines=Hey!++I'm+Justin.+Glad+you're+here;where+code+meets+intelligence.;take+the+tour!." alt="Typing SVG" /></a>
+<a href="https://github.com/justin24er"><img src="https://readme-typing-svg.demolab.com?font=Michroma&size=22&duration=3000&pause=1000&color=00E3B2&width=435&lines=Hey!++I'm+Justin.+Glad+you're+here;where+code+meets+intelligence.;take+the+tour!." alt="Typing SVG" /></a>
 
-<h4>√&nbsp;&nbsp;Full-Stack Engineer building products end-to-end, frontend, backend, infra</h4>
-<h4>√&nbsp;&nbsp;Interest in AI/ML, bringing intelligent systems into real products, not just notebooks</h4>
-<h4>√&nbsp;&nbsp;Comfortable across the stack: TypeScript, React, Next.js, Node.js, Python</h4>
-<h4>√&nbsp;&nbsp;Focused on clean architecture, readable code, and systems that scale</h4>
-<h4>√&nbsp;&nbsp;Open to collaborating on interesting full-stack or AI-driven projects</h4>
+<h5>√&nbsp;&nbsp;Full-Stack Engineer building products end-to-end, frontend, backend, infra</h5>
+<h5>√&nbsp;&nbsp;Interest in AI/ML, bringing intelligent systems into real products, not just notebooks</h5>
+<h5>√&nbsp;&nbsp;Comfortable across the stack: TypeScript, React, Next.js, Node.js, Python</h5>
+<h5>√&nbsp;&nbsp;Focused on clean architecture, readable code, and systems that scale</h5>
+<h5>√&nbsp;&nbsp;Open to collaborating on interesting full-stack or AI-driven projects</h5>
 
 <br>
 
@@ -28,23 +28,23 @@
 <br clear="both"/>
 
 <!-- ================= ANIMATION + TECH STACK ================= -->
-<img src="./assets/PC Coding and Dislay app Mobile.svg" align="left" width="500" alt="github-animation" hspace="0" vspace="0"/>
+<img src="./assets/PC Coding and Dislay app Mobile.svg" align="left" width="480" alt="github-animation" hspace="0" vspace="0"/>
 
 <div align="right">
 
-<strong>Languages & Runtime</strong>
+<strong>Languages & Runtime</strong><br/>
 <img src="https://skillicons.dev/icons?i=space,ts,py,nodejs&theme=light"/><br/>
 
-<strong>Frontend</strong>
+<strong>Frontend</strong><br/>
 <img src="https://skillicons.dev/icons?i=space,react,nextjs,html,css,tailwind&theme=light"/><br/>
 
-<strong>Backend & Data</strong>
+<strong>Backend & Data</strong><br/>
 <img src="https://skillicons.dev/icons?i=space,nodejs,postgres,prisma,nextjs&theme=light"/><br/>
 
-<strong>AI / ML</strong>
+<strong>AI / ML</strong><br/>
 <img src="https://skillicons.dev/icons?i=space,r,tensorflow,pytorch,opencv,matlab&theme=light"/><br/>
 
-<strong>Tools</strong>
+<strong>Tools</strong><br/>
 <img src="https://skillicons.dev/icons?i=space,git,github,vscode,neovim,docker&theme=light"/><br/>
 
 </div>
@@ -54,15 +54,15 @@
 <!-- ================= EXTENDED STATS + TOP LANGS ================= -->
 <div align="center">
 <a href="https://github.com/justin24er">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=justin24er&theme=gotham&bg_color=00000000&hide_border=true&layout=donut&langs_count=5" alt="github-top-langs">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=justin24er&theme=gotham&bg_color=00000000&hide_border=true&layout=donut&langs_count=5" width="320" alt="github-top-langs">
 </a>
 <a href="https://github.com/justin24er">
-  <img src="https://streak-stats.demolab.com?user=justin24er&theme=gotham&background=00000000&hide_border=true"  alt="github-streak-stats" hspace="15" vspace="0">
-</a>
-<a href="https://github.com/justin24er">
-  <img src="https://github-stats-extended.vercel.app/api?username=justin24er&theme=gotham&show_icons=true&icon_color=00FF8A&bg_color=00000000&hide_border=true" alt="github-stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=justin24er&theme=gotham&show_icons=true&icon_color=00FF8A&bg_color=00000000&hide_border=true" width="450" align="right" alt="github-stats">
 </a>
 </div>
+<a href="https://github.com/justin24er">
+  <img src="https://streak-stats.demolab.com?user=justin24er&theme=gotham&background=00000000&hide_border=true"  alt="github-streak-stats" hspace="0" vspace="0">
+</a>
 
 <br>
 
