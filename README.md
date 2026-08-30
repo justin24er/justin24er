@@ -75,7 +75,7 @@
 <a href="https://github.com/justin24er">
   <img src="https://img.shields.io/badge/Leetcode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22C55E&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/10+-vercel_projects-0D1117?style=social&labelColor=22C55E" />
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22C55E&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=22C55E&labelColor=0D1117" />
 </a>
 </div>
 
