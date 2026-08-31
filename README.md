@@ -23,7 +23,7 @@
 
 <!-- ================= GITHUB ANALYTICS — CONTRIBUTION GRAPH ================= -->
 <a href="https://github.com/justin24er">
-  <img width="100%" src="https://github-readme-activity-graph-phi-nine.vercel.app/graph?username=justin24er&theme=gotham&hide_border=true&from=2026-06-02&to=2026-06-30&bg_color=00000000&area=true&height=400&point=00000000&custom_title=CONTRIBUTION%20GRAPH" alt="contribution graph">
+  <img width="100%" src="https://github-readme-activity-graph-phi-nine.vercel.app/graph?username=justin24er&theme=gotham&hide_border=true&from=2026-06-02&to=2026-06-30&bg_color=00000000&area=true&height=400&point=00000000&custom_title=Contribution%20Graph" alt="contribution graph">
 </a>
 
 <br clear="both"/>
@@ -34,19 +34,19 @@
 <div align="right">
 
 <strong>Languages & Runtime</strong><br/>
-<img src="https://skillicons.dev/icons?i=space,ts,py,nodejs&theme=light"/><br/>
+<img src="https://skillicons.dev/icons?i=space,ts,py,nodejs&theme=dark"/><br/>
 
 <strong>Frontend</strong><br/>
-<img src="https://skillicons.dev/icons?i=space,react,nextjs,html,css,tailwind&theme=light"/><br/>
+<img src="https://skillicons.dev/icons?i=space,react,nextjs,html,css,tailwind&theme=dark"/><br/>
 
 <strong>Backend & Data</strong><br/>
-<img src="https://skillicons.dev/icons?i=space,nodejs,postgres,prisma,nextjs&theme=light"/><br/>
+<img src="https://skillicons.dev/icons?i=space,nodejs,postgres,prisma,nextjs&theme=dark"/><br/>
 
 <strong>AI / ML</strong><br/>
-<img src="https://skillicons.dev/icons?i=space,r,tensorflow,pytorch,opencv,matlab&theme=light"/><br/>
+<img src="https://skillicons.dev/icons?i=space,r,tensorflow,pytorch,opencv,matlab&theme=dark"/><br/>
 
 <strong>Tools</strong><br/>
-<img src="https://skillicons.dev/icons?i=space,git,github,vscode,neovim,docker&theme=light"/><br/>
+<img src="https://skillicons.dev/icons?i=space,git,github,vscode,neovim,docker&theme=dark"/><br/>
 
 </div>
 
